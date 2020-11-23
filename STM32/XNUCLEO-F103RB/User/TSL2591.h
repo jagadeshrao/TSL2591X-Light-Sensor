@@ -65,7 +65,7 @@
 #define CHAN0_LOW             (0x14)
 #define CHAN0_HIGH            (0x15)
 #define CHAN1_LOW             (0x16)
-#define CHAN1_HIGH            (0x14)
+#define CHAN1_HIGH            (0x17)
 
 //LUX_DF   GA * 53   GA is the Glass Attenuation factor 
 #define LUX_DF                (762.0)
